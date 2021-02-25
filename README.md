@@ -11,6 +11,12 @@ The FER2013 dataset ( facial expression recognition) consists of 48*48 pixel gra
 5:surprise
 6:natural
 
+
+***********************************************************************************************
+
+
+
+
 I builded a CNN architecture to classify facial
 expressions from images in the dataset and
 trained the model to predict corresponding emojis(available in the
