@@ -23,3 +23,8 @@ trained the model to predict corresponding emojis(available in the
 dataset) & saved the model weights .
 
 Detecting the bounding boxes of face in the webcam and predict the emotions is still in progress , & I am Planning to work on its GUI part as well using tkinter .
+
+
+
+**************************************
+https://www.google.com/url?sa=D&q=https://www.kaggle.com/msambare/fer2013&ust=1614357660000000&usg=AOvVaw28on5CK43lHUmhGlkS0dFf&hl=en-GB : Dataset Link
