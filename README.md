@@ -22,7 +22,7 @@ expressions from images in the dataset and
 trained the model to predict corresponding emojis(available in the
 dataset) & saved the model weights .
 
-Detecting the bounding boxes of face in the webcam and predict the emotions is still in progress , & I am Planning to work on its GUI part as well using tkinter .
+Detecting the bounding boxes of face in the webcam and predicting the emotions is still in progress , & I am Planning to work on its GUI part as well using tkinter .
 
 
 
